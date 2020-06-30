@@ -279,8 +279,13 @@ body {
     font-size: 10rem;
   }
 
-  .six .hat {
+  .six {
     width: 50px;
+    top: -20px;
+  }
+  
+  .hat {
+    width: 100px;
     top: -20px;
   }
 
